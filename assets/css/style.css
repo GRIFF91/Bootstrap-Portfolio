@@ -1,0 +1,14 @@
+header {
+	background-color: #4aaaa5;
+	color: white;
+}
+
+body {
+    /*background-image: url("../assets/images/vintage-concrete.png");*/
+    background-color: tan;
+}
+
+h2,
+h3 {
+	color: #4aaaa5;
+}
